@@ -1,10 +1,13 @@
 import requests
 
+# Turns string address into web address format
 def formatAddy(address):
     address = address.replace(" ", "%20")
     address = address.replace(",", "%2C")
     return address
 
+# Returns the lat and longitude of the current address
+# Powered by latlong.net's API
 def getLatLong(address):
     formatted = formatAddy(address)
     url = "https://www.latlong.net/_spm4.php"
