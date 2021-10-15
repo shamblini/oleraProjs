@@ -1,27 +1,32 @@
 ,distance,name,nursingHome.addressLine1,nursingHome.addressCity,nursingHome.addressState,nursingHome.addressZipcode,nursingHome.phone,nursingHome.overallRating
-0,12.086,Mesa Springs Healthcare Center,7171 Buffalo Gap Rd,Abilene,TX,79606,3256928080,5
-1,12.783,Wesley Court Health Center,2617 Antilley Road,Abilene,TX,79606,3254371184,5
-2,13.333,Windcrest Health & Rehabilitation,6050 Hospital Dr,Abilene,TX,79606,3256921533,5
-3,15.544,Wisteria Place,3202 S Willis St,Abilene,TX,79605,3256926145,5
-4,17.747,Willow Springs Health & Rehabilitation Center,4934 S 7th St,Abilene,TX,79605,3256922172,5
-5,18.247,Winters Healthcare Residence,506 Van Ness,Winters,TX,79567,3257544566,2
-6,18.238,Brightpointe at Lytle Lake,1201 Clarks Dr,Abilene,TX,79602,3256709293,1
-7,18.838,The Oaks at Radford Hills Healthcare Center,725 Medical Dr,Abilene,TX,79601,3256723236,1
-8,19.575,Coronado Nursing Center,1751 N 15th St,Abilene,TX,79603,3256733531,2
-9,19.839,Silver Spring,1690 N. Treadway Blvd.,Abilene,TX,79601,3257019975,4
-10,20.048,Hendrick Skilled Nursing Facility,1900 Pine,Abilene,TX,79601,3256706151,5
-11,20.655,Northern Oaks Living & Rehabilitation Center,2722 Old Anson Rd,Abilene,TX,79603,3256761677,4
-12,23.057,Clyde Nursing Center,806 Stephens St,Clyde,TX,79510,3258934288,5
-13,23.528,Merkel Nursing Center,1704 N 1st,Merkel,TX,79536,3259285673,1
-14,27.895,Homestead Nursing and Rehabilitation of Baird,224 E 6th St,Baird,TX,79504,3258541429,4
-15,31.479,Ballinger Healthcare and Rehabilitation Center,2001 6th St,Ballinger,TX,76821,3253655766,3
-16,31.641,Central Texas Nursing & Rehabilitation,1800 N Broadway St,Ballinger,TX,76821,3253652538,3
-17,33.041,Holiday Hill Inc,245 State Hwy #153 West,Coleman,TX,76834,3256254157,3
-18,34.421,Coleman Healthcare Center,2713 S Commercial Ave,Coleman,TX,76834,3256254105,3
-19,35.886,Bronte Health and Rehab Center,900 S State St,Bronte,TX,76933,3254733621,4
-20,39.194,Nolan Nursing and Rehabilitation LP,705 NE Georgia Avenue,Sweetwater,TX,79556,3252355417,5
-21,40.024,Sweetwater Healthcare Center,1600 Josephine St,Sweetwater,TX,79556,3252366653,2
-22,40.393,Valley View Care Center,101 Liberty LN,Anson,TX,79501,3258232141,1
-23,45.086,Robert Lee Care Center,307 West 8th St,Robert Lee,TX,76945,3254532511,3
-24,49.065,Cisco Nursing & Rehabilitation,1404 Front St,Cisco,TX,76437,2544424202,3
-25,49.372,Rising Star Nursing Center,411 S Miller,Rising Star,TX,76471,2546436700,5
+0,1.84,Legacy Nursing and Rehabilitation,2817 Kent Street,Bryan,TX,77802,9797767521,1
+1,2.311,St Joseph Manor,2333 Manor Dr,Bryan,TX,77802,9798217330,5
+2,2.354,Crestview Retirement Community,2505 E Villa Maria Rd,Bryan,TX,77802,9797764778,5
+3,2.414,Lampstand Nursing and Rehabilitation,2001 E 29th St,Bryan,TX,77802,9798226611,1
+4,3.205,Accel at College Station,1500 Medical Avenue,College Station,TX,77845,9792721000,3
+5,3.933,Fortress Nursing and Rehabilitation,1105 Rock Prairie Rd,College Station,TX,77845,9796942200,1
+6,21.781,Burleson St Joseph Manor,1022 Presidential Corridor Hwy 21 E,Caldwell,TX,77836,9795670920,3
+7,22.156,Navasota Nursing & Rehabilitation,1405 E Washington,Navasota,TX,77868,9368256463,1
+8,22.444,Crossroads Nursing & Rehabilitation,611 Rose Marie Blvd,Hearne,TX,77859,9792800440,1
+9,23.177,Copperas Hollow Nursing & Rehabilitation Center,345 Country Club Dr,Caldwell,TX,77836,9795674300,1
+10,24.296,Golden Creek Healthcare and Rehabilitation Center,2100 Dover Crossing Lane,Navasota,TX,77868,9368254043,1
+11,29.155,Franklin Nursing Home,700 Hearne St,Franklin,TX,77856,9798285152,5
+12,31.133,Brenham Nursing and Rehabilitation Center,400 E Sayles St,Brenham,TX,77833,9798369770,
+13,31.25,High Hope Care Center of Brenham,401 East Blue Bell Road,Brenham,TX,77833,9798366611,2
+14,32.768,Kruse Village Senior Living Community,1700 E Stone St,Brenham,TX,77833,9798301996,1
+15,33.471,Focused Care at Brenham,1303 Hwy 290 E,Brenham,TX,77833,9798307100,2
+16,33.578,Riverwood Healthcare,600 Bacon Street,Madisonville,TX,77864,9363489097,2
+17,33.681,Madisonville Care Center,411 E Collard,Madisonville,TX,77864,9363482735,1
+18,40.705,Renaissance Villa,1350 W. Highway 79,Rockdale,TX,76567,5124462548,1
+19,41.42,Legacy Nursing and Rehabilitation,2202 N Travis Ave,Cameron,TX,76520,2546976564,2
+20,41.935,Winnie L Ltc Partners Inc,2104 N Karnes,Cameron,TX,76520,2546974985,1
+21,42.313,Bremond Nursing and Rehabilitation Center,211 N Main,Bremond,TX,76629,2547467666,3
+22,45.524,Mrc Creekside,1433 Veterans Memorial Parkway,Huntsville,TX,77340,9364394700,4
+23,46.14,Briarwood Manor Care Center,1515 W Main,Bellville,TX,77418,9798653145,4
+24,46.694,Oakland Manor Nursing Center,1400 N Main St,Giddings,TX,78942,9795421755,1
+25,46.84,Focused Care at Huntsville,1302 Nottingham St,Huntsville,TX,77340,9362956313,2
+26,46.612,Colonial Belle Nursing Home,106 N Baron,Bellville,TX,77418,9798653689,1
+27,46.8,Giddings Residence and Rehabilitation Center,1181 N Williamson,Giddings,TX,78942,9795423611,3
+28,47.499,Huntsville Health Care Center,2628 Milam,Huntsville,TX,77340,9362938062,1
+29,48.017,Centerville Healthcare Center,103 Teakwood St,Centerville,TX,75833,9035362596,3
+30,48.644,Heritage House Nursing and Rehabilitation,407 N College St,Rosebud,TX,76570,2545837904,3
